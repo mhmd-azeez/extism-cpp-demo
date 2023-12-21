@@ -1,10 +1,5 @@
 #include <iostream>
-
-extern "C" {
 #include <extism.h>
-}
-
-#pragma comment(lib, "extism.dll.lib")
 
 int main()
 {
